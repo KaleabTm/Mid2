@@ -20,14 +20,14 @@ export default function App() {
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#3973ac',
-    alignItems: 'center',
-    justifyContent: 'center',
-    padding: '20px',
-    paddingBottom : '0px',
-    paddingTop:'20px'
-  },
-});
+// const styles = StyleSheet.create({
+//   container: {
+//     flex: 1,
+//     backgroundColor: '#3973ac',
+//     alignItems: 'center',
+//     justifyContent: 'center',
+//     padding: '20px',
+//     paddingBottom : '0px',
+//     paddingTop:'20px'
+//   },
+// });

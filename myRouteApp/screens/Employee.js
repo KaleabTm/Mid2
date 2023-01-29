@@ -1,7 +1,5 @@
 import {useState,useEffect} from 'react';
 import axios from 'axios';
-
-
 import { Text, View ,Button,TextInput } from 'react-native';
 import { styles } from "../styles/styles"
 

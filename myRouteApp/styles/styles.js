@@ -15,6 +15,7 @@ import { StyleSheet } from 'react-native';
     paddingBottom : 60,
     paddingTop:90
   },
+  
   box:{
     backgroundColor:'#80bfff',
     color:'#fff'
